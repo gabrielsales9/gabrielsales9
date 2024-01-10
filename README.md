@@ -7,5 +7,4 @@ Me chamo Gabriel Sales, e sou apaixonado por tecnologia. Atualmente estou cursan
     <img align="center" alt="Sales-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Sales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Sales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Sales-ROBOT.png" height="30" width="40" src="//upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
 </div>
