@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Gabriel Sales, e sou apaixonado por tecnologia. Atualmente estou cursando ADS, e em paralelo, <br> estudo tecnologias como:
+Me chamo Gabriel Sales, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio, e em paralelo, <br> estudo as tecnologias:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Sales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
