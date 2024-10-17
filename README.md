@@ -5,5 +5,5 @@ Meu nome é Gabriel Sales, estou no 5º período de Análise e Desenvolvimento d
 <div>
     <img align="center" alt="PYTHON" height="35" widht="45" style="margin: 10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
     <img align="center" alt="JS" height="30" width="40" style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="REACT" height="30" width="40" style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="REACT" height="30" width="40" style="margin: 1000px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
